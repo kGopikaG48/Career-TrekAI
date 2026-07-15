@@ -6,6 +6,29 @@
 Career-Trek AI is an intelligent AI-powered career guidance application that helps students and aspiring professionals make informed career decisions. Through an interactive conversational assistant, users can explore career opportunities, identify skill gaps, receive personalized learning roadmaps, improve resumes, prepare for interviews, and discover relevant certifications.
 
 ---
+
+
+## ❓ Problem Statement
+
+Students and fresh graduates often face difficulties in choosing the right career path due to limited access to personalized guidance, lack of awareness about required skills, and difficulty identifying suitable learning resources. Traditional career guidance systems usually provide generic suggestions and do not adapt to individual goals, skills, and interests.
+
+## 📌 Project Overview
+
+Career-Trek AI is an AI-powered career guidance platform that helps users make informed career decisions. The platform uses Agentic AI with IBM watsonx Orchestrate to provide personalized career recommendations, skill analysis, and learning roadmaps through an interactive AI assistant.
+
+______
+
+## 💡 Solution
+
+Career-Trek AI provides an intelligent and personalized career support system by:
+- Understanding user career goals and interests.
+- Recommending suitable career paths.
+- Identifying skill gaps and improvement areas.
+- Generating customized learning roadmaps.
+- Providing real-time guidance through an AI chatbot.
+
+_____
+
 ## 🌐 Live Demo
 
 **Live Application:** https://career-trek-ai.streamlit.app/
@@ -50,15 +73,16 @@ Career-Trek AI is an intelligent AI-powered career guidance application that hel
 
 ## 📁 Project Structure
 
-```text
-Career-TrekAI/
+```Career-TrekAI/
 │
 ├── app.py
 ├── api_client.py
 ├── requirements.txt
 ├── README.md
 ├── .env.example
-└── .gitignore
+├── .gitignore
+└── Documents
+ 
 ```
 
 ---
