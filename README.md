@@ -6,6 +6,13 @@
 Career-Trek AI is an intelligent AI-powered career guidance application that helps students and aspiring professionals make informed career decisions. Through an interactive conversational assistant, users can explore career opportunities, identify skill gaps, receive personalized learning roadmaps, improve resumes, prepare for interviews, and discover relevant certifications.
 
 ---
+## 🌐 Live Demo
+
+**Live Application:** https://career-trek-ai.streamlit.app/
+
+**GitHub Repository:** https://github.com/kGopikaG48/Career-TrekAI
+
+---
 
 ## ✨ Features
 
@@ -44,7 +51,7 @@ Career-Trek AI is an intelligent AI-powered career guidance application that hel
 ## 📁 Project Structure
 
 ```text
-Career-Trek-AI/
+Career-TrekAI/
 │
 ├── app.py
 ├── api_client.py
@@ -62,7 +69,7 @@ Career-Trek-AI/
 
 ```bash
 git clone https://github.com/kGopikaG48/Career-TrekAI.git
-cd Career-Trek-AI
+cd Career-TrekAI
 ```
 
 ### 2️⃣ Install Dependencies
@@ -101,7 +108,7 @@ http://localhost:8501
 User
    │
    ▼
-Career-Trek AI (Streamlit)
+Career-TrekAI (Streamlit)
    │
    ▼
 IBM Cloud IAM Authentication
